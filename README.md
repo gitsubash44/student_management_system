@@ -104,7 +104,7 @@ Password; 111
 ![image](https://github.com/user-attachments/assets/723cff47-61e7-4324-9102-fbe17dae8d6e)
 
 
-              # Develop by Subash and Amulya
+              # Develop by Subash Dhami
 
 
 
